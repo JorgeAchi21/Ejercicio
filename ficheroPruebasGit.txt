@@ -3,3 +3,5 @@ fichero 001
 
 esto es el segundo cambio desde la rama master
 
+añado otra linea en la rama: branch1
+
