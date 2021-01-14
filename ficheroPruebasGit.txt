@@ -1,1 +1,5 @@
 fichero 001
+
+---
+añado otra linea en la rama: branch1
+
